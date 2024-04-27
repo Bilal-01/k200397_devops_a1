@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import Education from "./pages/Education";
 import Projects from "./pages/Projects";
 import Navbar from "./components/Navbar";
+import Certification from './pages/Certification';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/education" element={<Education />} />
+          <Route path="/certification" element={<Certification />} />
         </Routes>
       </Router>
     </>
