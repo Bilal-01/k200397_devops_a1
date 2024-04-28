@@ -7,6 +7,7 @@ const Certification = () => {
   const [certifications, setCertifications] = useState(certificationData);
   
   return (
+    // Certfiication page
     <div className="projects-container">
       <h1 className="cert-heading">Certifications</h1>
       <div className="projects">
