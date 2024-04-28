@@ -21,5 +21,11 @@ export const certificationData = [
         title: "Certified C++ Developer",
         description: "Contains certification for being a good C++ developer",
         org: "Coursera"
+    },
+    
+    {
+        title: "Certified Kubernetes Administrator",
+        description: "Contains certification for Kubernetes Administrator",
+        org: "Google"
     }
 ]
