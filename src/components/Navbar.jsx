@@ -10,6 +10,7 @@ const Navbar = ({ activeLink }) => {
                 <Link className="navlink lato-regular" to="">Home</Link>
                 <Link className="navlink lato-regular" to="projects">Projects</Link>
                 <Link className="navlink lato-regular" to="education">Education</Link>
+                <Link className="navlink lato-regular" to="certification">Certification</Link>
             </ul>
         </div>
 

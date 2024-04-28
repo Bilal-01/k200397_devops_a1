@@ -42,3 +42,8 @@
 .course-group > * > *:nth-child(3n + 1) {
   margin-left: 0;
 }
+
+.cert-heading{
+  text-align: center;
+  margin: 16px auto;
+}
