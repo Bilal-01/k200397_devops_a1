@@ -165,5 +165,11 @@ export const uniCourses = [
     description:
       "This course covers all the design patterns, principles and practices in developing and deliver quality software.",
   },
+  {
+    courseTitle: "Design, Defects and Restructuring",
+    grade: "8th Semester",
+    description:
+      "This course covers all the design patterns, principles and practices in developing and deliver quality software.",
+  },
   
 ]
