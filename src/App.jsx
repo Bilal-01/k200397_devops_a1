@@ -8,6 +8,7 @@ import Certification from './pages/Certification';
 
 function App() {
   return (
+    // Implemented Routing here
     <>
       <Router>
         <Navbar activeLink="home" />
